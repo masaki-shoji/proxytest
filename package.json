@@ -1,0 +1,14 @@
+{
+  "name": "myproxy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masaki-shoji",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-http-proxy": "^1.5.0",
+    "hotnode": "0.0.8"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "result": {
+    "resultCode": "01",
+    "error": {
+      "errorCode": "abnormal",
+      "errorMessage": "an error ocurred."
+    },
+    "user": {
+      "name": "hoge",
+      "gender": 1,
+      "loginType": 1
+    }
+  }
+}
